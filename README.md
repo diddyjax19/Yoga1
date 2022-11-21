@@ -46,14 +46,14 @@ This is the main marketing website for Yoga. It is designed to be responsibe and
 
     -   Home Page Pictures - [View](https://diddyjax19.github.io/Yoga/index.html)
 
-    -   Mobile Pictures - [View](https://github.com/diddyjax19/Yoga/blob/main/screenshots/11.png)
+    -   Mobile Pictures - [View](https://github.com/diddyjax19/Yoga1/blob/main/assets/screenshot/mobile screenshot.png)
 
-    -   Contact Us Page Pictures - [View](https://github.com/diddyjax19/Yoga/blob/main/screenshots/21.png)
+    -   Contact Us Page Pictures - [View](https://github.com/diddyjax19/Yoga1/blob/main/assets/screenshot/contact screenshot.png)
 
 ## Features
 
 -   Responsive on all device sizes
-        Link [View](http://www.responsinator.com/?url=diddyjax19.github.io%2FYoga%2Findex.html)
+        Link [View](http://www.responsinator.com/?url=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fform.html)
 
 -   Interactive elements
 
@@ -82,13 +82,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 I confirmed for each page
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - 
-       [Results][index.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Findex.html)
-       [Results][gallery.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fgallery.html)
-       [Results][form.html](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fform.html)
+          [Results] [Index Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Findex.html)
+          [Results] [Gallery Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fgallery.html)
+          [Results] [Form Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fform.html)
 -   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) -
-       [Results][index.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-       [Results][gallery.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-       [Results][form.html](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fform.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+          [Results] [Index Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+          [Results] [Gallery Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fgallery.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+          [Results] [Form Page](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fform.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
       
 - Accessibility
     - I confirmed that the colors and Fonts chosen are easy to read and accessible by running it through Lighthouse in Devtools
@@ -161,7 +161,7 @@ I confirmed for each page
 
 ### Known Bugs
 
--  No bugs at this time.
+-  All bugs resolved.
 
 ## Deployment
 
@@ -171,11 +171,11 @@ The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://github.com/diddyjax19/Yoga/blob/main/index.html/) for a GIF demonstrating the process starting from Step 2.
+    - Alternatively Click [Here](https://github.com/diddyjax19/Yoga1/blob/main/index.html/) for a GIF demonstrating the process starting from Step 2.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Main".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://diddyjax19.github.io/Yoga/index.html) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://diddyjax19.github.io/Yoga1/index.html) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
