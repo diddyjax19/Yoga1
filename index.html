@@ -1,63 +1,91 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
+<!-- Head -->
 <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>Yoga</title>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Yoga">
+    <meta name="keywords" content="Benefits of Yoga,Technique in Yoga">
+
     <link rel="stylesheet" href="assets/css/style.css">
+    <title>Yoga</title>
 </head>
 
 <body>
     <header>
         <a href="index.html">
-            <h1 id="logo">Yoga More than Exercises</h1>
+            <h1 id="logo">Yoga More than Exercise.</h1>
         </a>
-
-        <!-- Navigation  Section -->
-
+        <!-- Menu Section -->
         <nav>
             <ul id="menu">
-                <li>
-                    <a class="active" href="signup.html">Sign Up</a>
-                </li>
-                <li>
-                    <a href="gallery.html">Gallery</a>
-                </li>
-
-                <li>
-                    <a href="index.html">Home</a>
+                <li><a href="form.html">Contact</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="index.html" class="active">Home</a>
                 </li>
             </ul>
         </nav>
     </header>
-    <section class="form-section">
-        <form class="signup-form" method="POST" action="https://formdump.codeinstitute.net/">
-            <h2>Let's get you signed up! <i class="fas fa-heartbeat"></i> </h2>
-            <label for="fname">First Name</label>
-            <input id="fname" class="text-input" type="text" name="first_name" required />
-            <label for="lname">Last Name</label>
-            <input id="lname" class="text-input" type="text" name="last_name" required />
-            <label for="email">Email Address</label>
-            <input id="email" class="text-input" type="email" name="email_address" required />
-            <label for="road">Personal</label>
-            <input id="road" type="radio" name="running_preference" value="Personal" required />
-            <label for="trail">Group</label>
-            <input id="trail" type="radio" name="running_preference" value="Group" />
-            <label for="both">Both</label>
-            <input id="both" type="radio" name="running_preference" value="both" />
-            <input class="join-button" type="submit" value="Submit!" />
-            <section>
-                <div>
-                <h3>You can also reach us on our Social Media Platforms below.</h3>
+            <!-- Cover text Section -->
+    <section id="hero-outer">
+        <div id="hero-image1"></div>
+        <div id="cover-text">
+            <h2>Yoga</h2>
+            <h4>is a traditional system of exercises for the body, mind,and soul that has passed down from teacher
+                to student.</h4>
+        </div>
+    </section>
+    <!-- Body section -->
+    <section id="benefits">
+        <h2 id="welcome">Types Of Yoga</h2>
+        <div id="left-about">
+            <div class="left-about-heading">
+                <h2>Hatha Yoga</h2>
+                <hr>
+                <p>This style of yoga focuses on balancing the energy centers and chakras. The energy vortexes or
+                    concentrated energy centres in our bodies are known as the chakras.This type of Yoga helps us
+                    destress,stay physically fit and agile, and make us look younger</p>
             </div>
-           </section>
-        </form>
+            <div class="left-about-heading">
+                <h2>Iyengar Yoga</h2>
+                <hr>
+                <p>It emphasizes opening the body up, alignment of the body,and posture in particular.In order to
+                    refine positions,it also employs accessories like yoga blocks and belts.One suffers severe neck and
+                    back pain in this illness.It aids in the treatment of gastroenterological and gynecological
+                    problems.</p>
+            </div>
+        </div>
+        <div id="right-about">
+            <div class="right-about-heading">
+                <h2>Kundalini Yoga</h2>
+                <hr>
+                <p>kundalini yoga is helpful for stress, anxiety, sadness, and improved cognitive function,which are
+                    then followed by pranayama, which is the controlled and precise act of breathing.Jal neti kriya is a
+                    purifying method that aids in clearing the nose canal of mucus and other
+                    obstructions.</p>
+            </div>
+            <div class="right-about-heading">
+                <h2>Aerial Yoga</h2>
+                <hr>
+                <p>It is appropriate for beginners as well as more experienced users.Aerial yoga,in contrast to
+                    traditional yoga,also includes other activities while resisting gravity. It combines the benefits of
+                    aerobic exercises like swimming or jogging with yoga.It benefits includes burning fat,it improves
+                    flexibility and cures breathing difficulties
+                </p>
+            </div>
+        </div>
+        <div id="center-about">
+            <div id="circle-container">
+                <div id="circle-cover-bg"></div>
+            </div>
+        </div>
     </section>
 
-    
+    <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 
-    <!-- Footer section -->
+    <!-- Footer Section -->
+
     <footer>
         <ul class="social-media">
             <li>
@@ -78,7 +106,8 @@
             </li>
         </ul>
     </footer>
-    
+
+
 
     <!-- Font awesome script -->
     <script src="https://kit.fontawesome.com/c0a2f2caac.js" crossorigin="anonymous"></script>
