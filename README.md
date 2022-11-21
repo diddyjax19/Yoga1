@@ -185,38 +185,16 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
-### Making a Local Clone
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. Under the repository name, click "Clone or download".
-3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-4. Open Git Bash
-5. Change the current working directory to the location where you want the cloned directory to be made.
-6. Type `git clone`, and then paste the URL you copied in Step 3.
-
-```
-$ git clone https://github.com/diddyjax19/Yoga.git
-```
-
-7. Press Enter. Your local clone will be created.
-
-```
-$ git clone https://github.com/diddyjax19/Yoga.git
-Cloning into 'Yoga'...
-remote: Enumerating objects: 222, done.
-remote: Counting objects: 100% (222/222), done.
-remote: Compressing objects: 100% (159/159), done.
-remote: Total 222 (delta 79), reused 180 (delta 42), pack-reused 0
-Receiving objects: 100% (222/222), 30.36 MiB | 9.00 MiB/s, done.
-Resolving deltas: 100% (79/79), done.
-```
-
-Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
-
 ## Credits
 
--   
--   
+-   Media
+    The images where gotten from Pixabay.
+
+-   Icons
+    All icons where gotten from Font Awesome.
+
+-   Content
+    The code used to make the footers in all the files where gotten from love running project.
 
 ### Code
 

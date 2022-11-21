@@ -12,8 +12,6 @@ body {
     color: #3a3a3a;
 }
 
-/*style for headings and logo */
-
 h1 {
     font-family: 'kalam', sans-serif;
     text-transform: uppercase;
@@ -36,7 +34,6 @@ h1 {
     margin-left: 30px;
 }
 
-/* navigation links */
 
 #menu {
     font-size: 110%;
@@ -67,7 +64,7 @@ h1 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* Hero image and cover text */
+
 
 #hero-outer {
     height: 600px;
@@ -107,8 +104,6 @@ h1 {
     position: absolute;
 
 }
-
-/* Form Section */
 
 .form-section {
     clear: both;
@@ -185,7 +180,6 @@ footer{
     color: #3a3a3a;
 }
 
-/*gallery*/
 
 #photos {
     clear: both;
@@ -199,8 +193,6 @@ footer{
     width: 100%;
 }
  
-/*benefits*/
-
 #benefits {
     height: 600px;
 }
@@ -276,11 +268,6 @@ hr {
     border-radius: 70%;
 }
 
-/*Create a Media queries*/
-
-
-/*For larger screen */
-
 @media screen and (max-width:1200px) {
 
     #benefits {
@@ -309,7 +296,7 @@ hr {
     }
 
 }
-/*For medium screen size from 950px*/
+
 @media screen and (max-width: 950px) {
 
   #menu {
@@ -345,7 +332,7 @@ hr {
     }
 }
 
-/*For medium screen size from 800px*/
+
 @media screen and (max-width: 800px) {
     #photos {
         column-count: 2;
