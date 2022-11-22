@@ -1,6 +1,6 @@
 <h1 align="center">Yoga More than Exercise Website</h1>
 
-This Yoga website is a landing page that tells begginers what yoga is all about,it gives them a brief knowledge on the type of Yoga and it benefits.It tells them about the types of Yoga and it benefits.It also shows the links to all the social media platform.It also shows the picture of different poses.
+This Yoga website is a landing page that tells beginners what yoga is all about,it gives them a brief knowledge on the type of Yoga and it benefits.It also shows the links to all the social media platform.It also shows the picture of different poses.
 Lastly there is a form to fill that helps them to contact us directly.
 
 [View the live project here.]( https://diddyjax19.github.io/Yoga1/)
@@ -59,9 +59,6 @@ This is the main marketing website for Yoga. It is designed to be responsibe and
         Link [View](http://www.responsinator.com/?url=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Fform.html)
 
 -   Interactive elements
-
-## Technologies Used
-
 ### Languages Used
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
@@ -82,7 +79,7 @@ This is the main marketing website for Yoga. It is designed to be responsibe and
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-I confirmed for each page
+I confirmed for each page in my project.
 
 -   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - 
           [Results] [Index Page](https://validator.w3.org/nu/?doc=https%3A%2F%2Fdiddyjax19.github.io%2FYoga1%2Findex.html)
