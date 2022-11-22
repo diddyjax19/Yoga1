@@ -45,7 +45,7 @@ This is the main marketing website for Yoga. It is designed to be responsibe and
 *   ### Screenshots
 
     -   Home Page Pictures - [View]
-            <h2 align="center"><img src="https://github.com/diddyjax19/Yoga1/blob/main/assets/screenshot/2.png"></h2>
+            <h2 align="center"><img src="https://github.com/diddyjax19/Yoga1/blob/main/assets/screenshot/home%20page.png"></h2>
 
       -   Mobile Page Pictures - [View]
             <h2 align="center"><img src="https://github.com/diddyjax19/Yoga1/blob/main/assets/screenshot/mobile screenshot.png"></h2>
