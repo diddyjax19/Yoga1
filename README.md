@@ -196,6 +196,9 @@ By forking the GitHub Repository we make a copy of the original repository on ou
 -   Content
     The code used to make the footers in all the files where gotten from love running project.
 
+-   Video
+    The video was gotten from Youtube and was gotten from a channel with name (Yoga With Adriene)
+
 ### Code
 
 -   The full-screen hero image code came from this [Pixabay post](https://pixabay.com/)
